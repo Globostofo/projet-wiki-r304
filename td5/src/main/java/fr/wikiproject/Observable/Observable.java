@@ -1,4 +1,4 @@
-package fr.wikiproject.Obervable;
+package fr.wikiproject.Observable;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package fr.wikiproject.Obervable;
+package fr.wikiproject.Observable;
 
 public class Main {
     public static void main(String[] args) {
