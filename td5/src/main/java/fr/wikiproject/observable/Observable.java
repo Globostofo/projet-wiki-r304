@@ -1,4 +1,4 @@
-package fr.wikiproject.Observable;
+package fr.wikiproject.observable;
 
 import java.util.ArrayList;
 import java.util.List;

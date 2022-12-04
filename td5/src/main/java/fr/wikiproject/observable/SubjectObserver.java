@@ -1,4 +1,4 @@
-package fr.wikiproject.Observable;
+package fr.wikiproject.observable;
 
 
 public class SubjectObserver implements Observer {
