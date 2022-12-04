@@ -37,8 +37,10 @@ public class Observable {
     }
 
     public void notifyObservers(Object arg) {
+        if (!hasChanged()) return;
         for (Observer observer : observers ){
             observer.update(this, arg);
         }
+        clearChanged();
     }
 }
